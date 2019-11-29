@@ -1,0 +1,6 @@
+../.idea/
+venv
+
+
+ git remote add origin https://github.com/ashgazer/eshop
+ git remote add origin git@github.com:ashgazer/eshop.git
